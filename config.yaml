@@ -1,0 +1,10 @@
+urlPrefix: /aop_component/
+
+site:
+  - url: http://qcyjt.wust.edu.cn/
+  - url: http://gzc.wust.edu.cn/
+  - url: http://xtzx.wust.edu.cn/
+  - url: http://lixueyuan.wust.edu.cn/
+  - url: http://wis.wust.edu.cn/
+  - url: http://sjc.wust.edu.cn/
+  - url: https://tsg.wust.edu.cn/
